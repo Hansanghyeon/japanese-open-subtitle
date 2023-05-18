@@ -1,4 +1,15 @@
-# japanese-speech-to-text
+## opensubtitles
+
+- opensubtitles 플랫폼
+- 자동화, 기계, 머신, ai를 이용한 자막제작
+- 역자를 구해서 자막을 추가하는 방법
+- 역자에게 어떤 혜택을 줄 수 있을까?
+  - 펀딩, 기부
+- (option) video sync subtitles
+
+## 자동화하기
+
+`speech-to-text` `ai` `ml`
 
 - https://daleonai.com/translate-dub-videos-with-ml
 
