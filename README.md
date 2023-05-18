@@ -10,3 +10,5 @@
 1. 일본어를 음성을 인식해서 영문으로 변환한다.
 2. 영문을 LLM을 통해서 원하는 언어로 변환한다.
 3. 이때 Localization 특색이 들어가서 어색하지 않는 자막을 만든다.
+
+- https://github.com/google/making_with_ml/tree/master/ai_dubs
